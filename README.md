@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaypreet00
-- 👀 I’m interested in Gmae devlopment 
-- 🌱 I’m currently learning .Net
-- 💞️ I’m looking to collaborate on unity 
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me linkedin.com/in/jay-preet-1671a52b0
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...
